@@ -1,4 +1,4 @@
-##Premier League Soccer Match Prediction##
+## Premier League Soccer Match Prediction ##
 
 *Author: Mengran Zhang and Others*
 
